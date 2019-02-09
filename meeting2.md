@@ -1,4 +1,4 @@
-##Meeting #2 February 8, 2019
+## Meeting #2 February 8, 2019
 Chris to talk to amii feb 20 @ 2pm to talk about how we can collaborate with them
 
 Justin talked about desire for speakers, workshops, and presentations
@@ -7,7 +7,7 @@ Mentioned Startup Edmonton stuff
 
 Shout out to join committees
 
-#Nick talks about new club bank account:
+# Nick talks about new club bank account:
 + no money in yet
 + ATB
 He was not able to submit funding for an event since the event has to be approved from the faculty.
@@ -17,7 +17,7 @@ There was no time to plan the event. Applied for funding for $100 for administra
 + Applied for dev account fees google/apple
 + Applied for purchase for a domain/hosting.
 
-#Talks about projects:
+# Talks about projects:
 + Summer Camp
 + Peter: Starcraft AI
 + Justin: OpenAI Gym
