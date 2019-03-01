@@ -1,8 +1,9 @@
 # Meeting #3 March 1, 2019, All Executive Present except Peter
-Got to meet Dr. Schaefer
+Got to meet Dr. Schaefer and we talked about the club elections.
 
 ###### ps: I typed *VERY* fast so except some typos
 
+# Dr. Schaefer
 He talked about ddep learning being very important to the future of Machine Learning, but has it's problems.
 It's a flash in the pan. IT's temporary until a better solution is found.
 Says he can help us gets speakers to talk about fields in AI.
@@ -24,3 +25,7 @@ We can get a lot more people through the high level talks.
 Another possiblity instead of a game is to take a data set and make a prediction. It's easy to set up. There are lots of option as a first phase.
 
 He told us to not sell ourselves short. Sometimes people who are not aware of background can find a new solution to an old problem. Bias is a very big problem in AI. Doesn't mean the problem has been solved that we can't make a contribution.
+
+# Elections
+Vote was held to decide when elections at a general meeting would be held.
+It was voted unanimously to host a meeting on March 15, 2019.
