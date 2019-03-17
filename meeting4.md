@@ -49,4 +49,4 @@ We talked about:
 ## BONUS!
 Here are some pictures from the meeting:
 ![alt meeting photo](m4.1.jpg "election overview")
-![alt meeting photo](m4.1.jpg "other stuf!!1!")
+![alt meeting photo](m4.2.jpg "other stuf!!1!")
