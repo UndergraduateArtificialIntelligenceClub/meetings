@@ -45,3 +45,8 @@ We talked about:
 - We can always ask Dr.Schaefer for problem suggestions.
 ### Club Website
 - Desire was expressed about having a website for the club.
+
+## BONUS!
+Here are some pictures from the meeting:
+![alt meeting photo](m4.1.jpg "election overview")
+![alt meeting photo](m4.1.jpg "other stuf!!1!")
