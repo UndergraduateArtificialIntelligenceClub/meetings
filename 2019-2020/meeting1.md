@@ -29,3 +29,5 @@ people would prefer to have the last talk on Nov 7
 
 We are probably going to start a basic started project up real soon.
 We'll be using the MNIST data set to do digit recognition!
+
+We also talked about using movingai.com to create a search competition. Members voted unanimously to host a competition. More details soon.
