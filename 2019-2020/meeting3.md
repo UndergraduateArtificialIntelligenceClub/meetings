@@ -37,3 +37,5 @@
 ## Internship
 
 + Nick dropped the oportunity of an internship. Send him a message in slack if you're interested.
+
++ AMII invited us to work on Project X
