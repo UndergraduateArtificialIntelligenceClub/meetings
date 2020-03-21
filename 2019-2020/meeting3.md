@@ -34,6 +34,8 @@
 
 + People gave speeches
 
+![Election Results](election_results.png)
+
 ## Internship
 
 + Nick dropped the oportunity of an internship. Send him a message in slack if you're interested.
