@@ -21,3 +21,9 @@
 	2. Speaker Series
 	3. Workshops
 6. Justin is leaving forever
+
+## Workshop ideas
+- Python workshop
+- Monte Carlo Tree Search
+- Git (with Ada's Team)
+- Execs come up with ideas!
