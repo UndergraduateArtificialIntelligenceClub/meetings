@@ -1,0 +1,9 @@
+- We will do some experimentation with different techniques until March 3rd, when a final architecture will be chosen.
+- Assignments:
+  - Jacob: Transformer models
+  - Tarin: Simple feed-forward network
+  - Craig: CNNs
+  - Shahzaib: LSTM layers
+  
+ - We will focus our efforts on replays from D3 players & above
+ - Focus mainly on 3v3 bots
